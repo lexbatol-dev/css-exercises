@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.group {
+  background-color: #df84ab;
+  font-family:
+    Verdana,
+    "DejaVu Sans" sans-serif;
+}
+
+#two {
+  color: #2542c3;
+  font-size: 36px;
+}
+
+.three {
+  font-size: 24px;
+}
+
+#four {
+  background-color: #78de8b;
+  font-size: 24px;
+  font-weight: bold;
+}
